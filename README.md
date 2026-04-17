@@ -1,6 +1,6 @@
 # 📊 Getting Started — Blazor Pivot Table CRUD with Entity Framework & SQL Server
 
-[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 [![.NET 7.0](https://img.shields.io/badge/.NET-7.0-512BD4.svg)](https://dotnet.microsoft.com/)
 [![Blazor Server](https://img.shields.io/badge/Blazor-Server-blueviolet.svg)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![Entity Framework Core](https://img.shields.io/badge/EF%20Core-7.0.5-green.svg)](https://docs.microsoft.com/ef/core/)
